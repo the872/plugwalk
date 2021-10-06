@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/icon_180x180.78a7203627319df3aeda0fc0d602e5d0.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_167x167.5ea22ce6accb003be510d0484fa0dfce.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_152x152.e3c0780d05db4703666c2904bd9605a1.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_120x120.f2f9781d013ef54bad240e1e065834bd.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.fd88d81e1bda9f8f9e8ed344aa2d87cd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.220ec8ce63e3ad5692a6345acca11cfb.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f6066e2f4a46aa300ebedc9bf8dca659.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.d2d309ebf855fe8627708661eeccb638.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.bad697f80b743fd9f453de1da2f41954.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.11114a243799a5ed553cba604e8d4b57.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_72x72.a7dcea0a6375b3048c5ae4f879d87175.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "plugwalk",
+  "short_name": "plugwalk",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "I dont even understand how the fuck my plug talk",
+  "background_color": "#fafafa",
+  "theme_color": "#25A59A"
+}
